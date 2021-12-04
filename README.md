@@ -8,7 +8,6 @@
 ![](https://user-images.githubusercontent.com/17040639/144703339-9387d668-c5e6-4743-b85b-48387a8e73f2.png)
 ![](https://user-images.githubusercontent.com/17040639/144703383-2972b25a-ce35-48c3-8d66-4e0e3a7aea50.png)
 ![](https://user-images.githubusercontent.com/17040639/144703385-81a2de20-82dd-416f-9e7e-10a35e36549d.png)
-![](https://user-images.githubusercontent.com/17040639/144703386-80cd8aed-1c4e-41c5-9cf6-c21a74ded495.png)
 ![](https://user-images.githubusercontent.com/17040639/144703411-4d1bbe7b-6f71-43ab-906a-498ca6a891ec.png)
 
 ### Apps Packages 
