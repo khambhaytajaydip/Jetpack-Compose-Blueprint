@@ -1,2 +1,2 @@
 # Jetpack-Compose-Blueprint
- Jetpack Compose, Kotlin, MVVM, Navigation Component, Hilt, Retrofit2 
+ Jetpack Compose, Kotlin, MVVM, Navigation Component, Hilt, Retrofit2 , DataManager
